@@ -2,6 +2,6 @@
 
 int main(){
     int i=10;
-    printf("number",i);
+    printf("number %d\n",i);
     
 }
